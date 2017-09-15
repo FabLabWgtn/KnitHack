@@ -1,11 +1,11 @@
 public void Connect() {
-  String portName = Serial.list()[6]; // you might need 
+  String portName = Serial.list()[1]; // you might need 
   println(Serial.list());
   port = new Serial(this, portName, 57600);
   port.clear();
   done.trigger();
   cp5.remove("Connect");
-  ControlFont cfont = new ControlFont(pfont, 16); 
+  ControlFont cfont = new ControlFont(pfont, 16);
 
   cp5.addButton("Send_to_KnittingMachine")
     .setPosition(GUIxPos, 621)
@@ -17,14 +17,14 @@ public void Connect() {
 }
 
 public void Send_to_KnittingMachine(int theValue) {
-  //sending pixelBin[][] to knitting Machine! 
+  //sending pixelBin[][] to knitting Machine!
   patternSend();
 }
 
 public void Back() {
   //sending one before of pixelBin[][].
   if (header > 1) {
-    header--; 
+    header--;
     for (int i=0; i<maxColumn; i++) {
       if (storeBin[header][i] == 2) {
         port.write(0);

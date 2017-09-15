@@ -11,8 +11,8 @@
 // #define machineTypeCK35
 
 // DEFINE SHIELD
-#define shieldTypeOriginal
-// #define shieldTypeKnitic
+// #define shieldTypeOriginal
+ #define shieldTypeKnitic
 
 #include "pinAssign.h"
 
@@ -315,6 +315,3 @@ void out2() { // <<<-
     }
   }
 }
-
-
-
