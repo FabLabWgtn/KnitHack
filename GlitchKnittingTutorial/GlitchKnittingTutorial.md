@@ -4,8 +4,8 @@
 ![](/images/image_1_glitch_knit_machine.jpg)
 
 
-**context about the Glitch Knit original project** - [glitchknit.jp](http://glitchknit.jp/)
-**more details about the software & settings** - [Fab Lab Wgtn github](https://github.com/FabLabWgtn/KnitHack)
+- **context about the Glitch Knit original project** - [glitchknit.jp](http://glitchknit.jp/)
+- **more details about the software & settings** - [Fab Lab Wgtn github](https://github.com/FabLabWgtn/KnitHack)
 
 
 ## **welcome - introduction to using the glitch knit machine**
@@ -22,18 +22,17 @@ This machine used to be driven by punchcards and was hacked to be computer-contr
 
 ## **steps to get started on the machine**
 
-step 1️- make your design
+1️⃣ make your design
 
-step 2 - open your design in the software
+2️⃣ open your design in the software
 
-step 3️- set up the machine
+3️⃣ set up the machine
 
-
-  3.1 - insert the yarn
-  3.2 - do the cast on
-  3.4. - check & prepare the carriage
+	3.1 - insert the yarn
+	3.2 - do the cast on
+	3.3 - check & prepare the carriage
   
-step 4 - do the cast off
+4️⃣ do the cast off
 
 
 ----------
@@ -62,8 +61,7 @@ you don't want it not too light or too heavy
   - D - secondary knitting row (or holes if you don’t have a secondary thread)
   - E - holes
 
-
-![what the carriage looks like](/images/image_2_carriage_picture.jpg)
+  ![](/images/image_2_carriage_picture.jpg)
 
 
   **the carriage**
@@ -73,22 +71,28 @@ you don't want it not too light or too heavy
 
   Here are all its elements:
   - a tension disk (from 1 to 10)
-  - a mode selection (NL, CR ok KC(II))
+  - a mode selection (options are NL, CR, KC(I) or KC(II))
   - CAM buttons (MC for multi-color for example)
-  - CAM button release lever (PLAIN to set CAM buttons back to normal)
-  - a holding cam lever (N for normal or H when you want to hold)
+  - CAM button release lever (hit PLAIN to set CAM buttons back to normal)
+  - a holding cam lever (options are N for normal or H to hold)
   - a sinker plate with a gate (gate goes into ‘A’ or ‘B’ position)
 
 
 **but first thing first, you should have a design**
 
-if you don't have a design yet, you can create a very simple two-color "check game" design using Paint or just draw a black filled square on white background
-save it as a .jpg
+- if you don't have a design yet
 
-if you already have a two-color design saved as a.jpg, you'll just have to drag & drop it into the Glitch Knit machine software!
+	you can create a very simple two-color "check game" design using Paint 
+	or just draw a black filled square on white background
+	save it as a .jpg
 
-then, you should wonder what should be the size of your first sample, which means how many needles you're going to use (remember the bed is 200 needles wide)
-generally, you will position your garment in the middle of the bed
+- if you already have a two-color design saved as a.jpg
+
+	you'll just have to drag & drop it into the Glitch Knit machine software!
+
+	then, you should wonder what should be the size of your first sample
+	= how many needles you're going to use (remember the bed is 200 needles wide)
+	generally, you will position your garment in the middle of the bed
 
 
 ----------
@@ -96,33 +100,25 @@ generally, you will position your garment in the middle of the bed
 
 ## **step 1 - open your design in the Glitch Knit machine’s software**
 
-![what the software looks like](/images/image_3_image_converter_software.jpg)
+![](/images/image_3_image_converter_software.jpg)
 
 
 ⚠️ at this stage, you should make sure the copper board is plugged into the computer
 
 
   here is what to do:
-  - go to C: drive > KnitHack > Processing > click on “processing” 
-  - should open “Image Converter” in Processing 3 automatically
+  - open Processing software 
+  - in Processing, open “Image Converter”
   - in Processing, hit the “play” button 
    
 
   **→ the glitch knit software should be up & ready!**
 
-  if something goes wrong, there’s a shortcut to Processing 3 there:
-  - go to C: drive > KnitHack > Processing > Image Converter > “processing”
-  - in Processing, click on “file” 
-  - choose “image converter” in the same folder
-  - and it should be alright 
-
-
-  you can now drag & drop your .jpg picture
-  each stitch represent a pixel
+  you can now drag & drop your .jpg picture in Image Converter
+  each pixel of your design now represent a stitch
   if your 2 colors are black & white, it will turn the image “pixels” into white or black stitches
 
-
-  in Image Converter, you can: 
+  with Image Converter, you can: 
   - change the size of your design
   - change the threshold of your pixels/stitches
   - line up your design with the position you want on the bed
@@ -133,7 +129,8 @@ generally, you will position your garment in the middle of the bed
 
 ## **step 2.1 - insert the yarn**
 
-![inserting the yarn](/images/image_4_inserting_yarn.jpg)
+
+![](/images/image_4_inserting_yarn.jpg)
 
 
 insert the yarn in the 5 different areas where it needs to be inserted
@@ -142,7 +139,7 @@ insert the yarn in the 5 different areas where it needs to be inserted
 - put the yarn in **1st metal loop** on the metal antenna above the glitch knit
 
 
-- there’s a “**white tension wheel**” on the metal antenna, put the yarn between the two metal disks
+- there’s a **white tension wheel** on the metal antenna, put the yarn between the two metal disks
 
 
 - put the yarn in **3rd metal loop** on the metal antenna above the glitch knit
@@ -150,11 +147,11 @@ insert the yarn in the 5 different areas where it needs to be inserted
 
 - put the yarn in **4th metal loop** on the metal antenna above the glitch knit
 
-![sinker plate gate in ‘A’ position](/images/image_5_sinker_plate_and_gate_in_A_position.jpg)
-
 
 - and finally put it into the **sinker plate gate to ‘A’ position** and close it (by flicking the white gate opener)
 
+
+![](/images/image_5_sinker_plate_and_gate_in_A_position.jpg)
 
 
 ----------
@@ -166,7 +163,7 @@ set everything
 decide what tension you want (how big the loops will be) with the tension disk 
 start a little bit loose by setting it to 4 or 5
 
-![](images/image_6_cast_on_instructions.jpg)
+![](/images/image_6_cast_on_instructions.jpg)
 
 
 **→  to make our square, we’re going to use 40 needles today**
@@ -181,18 +178,17 @@ here’s how to do a **BY HAND cast on**:
 - tie a loose knot around the LAST needle on the LEFT side in ‘D’ position
 - from left to right, put the yarn thread around each pin
 
-
-  💡 ![**watch this video to see a ‘cast on’ example by Hannah**](https://www.youtube.com/watch?v=kv4iWE5L0lA&feature=youtu.be)
-
-
 - the tension is very important at this stage
   →   too tight - you’ll have a hard time moving the carriage around
   →   too loose - it can tangle and get caught inside, uneven knit
 
-the result should look like this:
-
+- the result should look like this:
 
 ![](/images/image_7_cast_on_result.jpg)
+
+- 💡 **watch this video to see a ‘cast on’ example by Hannah** 
+
+![](https://www.youtube.com/watch?v=kv4iWE5L0lA)
 
 
 ----------
@@ -200,36 +196,33 @@ the result should look like this:
 
 ## **step 2.3 - check & prepare the carriage**
 
-check the flaps under the carriage
-check the white screws above the sinker plate
+- check the flaps under the carriage
+- check the white screws above the sinker plate
 
-turn the carriage button to CR (carriage release)
-insert the carriage front rail 1st & the back rail 2nd
-turn the carriage button back from CR to NL (normal)
-slide it a few times to make sure it’s sliding properly
+- turn the carriage button to CR (carriage release)
+- insert the carriage front rail 1st & the back rail 2nd
+- turn the carriage button back from CR to NL (normal)
+- slide it a few times to make sure it’s sliding properly
 
-hit the “PLAIN” button to reset the settings
-close the “gate”
+- hit the “PLAIN” button to reset the settings
+- close the “gate” on the sinker plate
 
-slide the carriage to the left to make a first line
-hold the yarn down
-push the needles so the yarn stands on the other side of the latch
-slide the carriage to the right  
+- slide the carriage to the left to make a first line
+- hold the yarn down
+- push the needles so the yarn stands on the other side of the latch
+- slide the carriage to the right  
 
-after the first row
-take the knight white guide bar
-made to pull your job down, keeps a great tension
-hook it onto the first row
-pay attention not to have our yarn thread tangled in it
+- after the first row, take the knight white guide bar
+- it's to made to pull your job down, keeps a great tension
+- hook it onto the first row
+- pay attention not to have our yarn thread tangled in it
 
-do a couple more rows now
-slide to the left
-to the right
-to the left
-to the right
-if your job is quite smaller than the weight bar, add the two metal spatula to have a more precise & balanced weight
+- do a couple more rows now
+- slide to the left, to the right, to the left, to the right and so on
 
-that’s the basic setup with a single color
+- if your job is quite smaller than the weight bar, add the two metal weight clamps to have a more precise & balanced weight
+
+**-> that’s the basic setup with a single color**
 
 
 ----------
@@ -237,25 +230,24 @@ that’s the basic setup with a single color
 
 ## **if you want to move on & use more than one color**
 
-on the carriage, set to “K carriage”
 
-turn the carriage button to KCII (that extend a doofer in the back of the carriage, that will hit switches along the way)
-slide from the left end to the right
-at this stage, we only had one thread set, so we created little holes (which could be interesting for a design)
+- turn the carriage button to KC(II) (extends a doofer in the back of the carriage that will hit switches along the way)
+- slide from the left end to the right
+- at this stage, we only had one thread set, so we created little holes
 
-now is the right time to set the second color
-check the pictures
-and hit the MC button on the carriage head (for multi-colors)
-slide a few times to see if the new color is behaving as wanted
-no need to slide to the extreme end every time (just once so the machine knows the size of the job & position of the carriage)
+- now is the right time to set the second color
+- and hit the MC button on the carriage head (for multi-colors)
+- slide a few times to see if the new color is behaving as wanted
+- no need to slide to the extreme end every time (just once so the machine knows the size of the job & position of the carriage)
  
-at some stages, you might want to bring the weight bar closer to the bed again to have a better tension
+- at some stages, you might want to bring the weight bar closer to the bed again to have a better tension
 
 **wanna go back to single-color?**
-hit the plain button
-take the white yarn off of the carriage head
-change the carriage button to NL
-do a few slides again, to have new layers of black
+
+- hit the plain button
+- take the white yarn off of the carriage head
+- change the carriage button to NL
+- do a few slides again, to have new layers of black
 
 
 ----------
@@ -264,12 +256,13 @@ do a few slides again, to have new layers of black
 ## **step 4 - do the “cast off”**
 
  
-💡 first, read these instructions
+- 💡 first, read these instructions
 
 ![](/images/image_8_cast_off_instructions.jpg)
 
+- 💡 **watch this video to see a ‘cast off’ example by Hannah** 
 
-![**watch this video to see a ‘cast off example by Hannah**](https://www.youtube.com/watch?v=YFalkyQg8kI&feature=youtu.be)
+![](https://www.youtube.com/watch?v=YFalkyQg8kI)
 
 
 ----------
@@ -281,11 +274,10 @@ from time to time, it’s good to oil the machine
 basically all the importants parts (the moving parts below the carriage + the pins)
 
 
-
 ----------
 
 
-## **what you should practice after the workshop**
+## **what you should practice after glitch knitting for the first time**
 
 
 - inserting the yarn & set everything to neutral
@@ -305,29 +297,30 @@ to run a **workshop** about the Glitch Knit machine, a reasonable goal would be 
 ----------
 
 
-## **make your first object - create a small-sized beanie**
+## **workshop on Glitch Knitting - create a small-sized beanie**
 
-do the cast on
-do 2 lines holding it down with your hand
-put the weight clamps
+- do the cast on
+- do 2 lines holding it down with your hand
+- put the weight clamps
 
-follow a 2 needles in - 1 out - 2 needles in - 1 out pattern for the mock rib
-do 20 lines
-do 1 line with nothing
-do 20 lines
+- follow a "2 needles in - 1 out - 2 needles in - 1 out" pattern for the mock rib
+- do 20 lines with this scheme
+- do 1 line with no yarn on
+- do 20 lines again with the yarn on
 
-then 30 lines
-then take out 1 needle on each side
-do 2 more lines
-take out 1 needle on each side again
-do 2 more line
+- then new 30 lines
+- then take out 1 needle on each side
+- do 2 more lines
+- take out 1 needle on each side again
+- do 2 more line
+- follow this pattern until you have 10 needles left
 
-until you have 10 needles
+- do the cast off
 
-do the cast off
+- iron the hat
+- wash it under hot water
 
-iron the hat
-wash it under hot water
+- sew it together
 
-sew it together
+- now try to make a adult-sized beanie with your design on it!
 
